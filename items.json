@@ -1,0 +1,32 @@
+[
+  {
+    "name": "shoe",
+    "price": "100",
+    "size": "Large",
+    "id": "1"
+  },
+  {
+    "name": "Rice",
+    "price": "500",
+    "size": "medium",
+    "id": "2"
+  },
+  {
+    "name": "shirt",
+    "price": "2000",
+    "size": "put",
+    "id": "3"
+  },
+  {
+    "name": "shoe",
+    "price": "100",
+    "size": "Large",
+    "id": "4"
+  },
+ {
+    "name": "Onion",
+    "price": "300",
+    "size": "Small",
+    "id": "5"
+  }
+]
